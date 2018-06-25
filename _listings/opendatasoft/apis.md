@@ -7,10 +7,10 @@ description: OpenDataSoft is a cloud-based turnkey platform for data publishing 
   within an admi...
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2716-opendatasoft.jpg
 x-kinRank: "7"
-x-alexaRank: "307560"
+x-alexaRank: "323884"
 tags: Metadata
-created: "2018-06-20"
-modified: "2018-06-20"
+created: "2018-06-25"
+modified: "2018-06-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/metadata/master/_listings/opendatasoft/apis.md
 specificationVersion: "0.14"
 apis:
